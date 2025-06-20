@@ -60,5 +60,3 @@ It empowers customers with **smarter choices**, **saves time**, and **reduces wa
 
 ---
 
-## 🗂️ Folder Structure
-
