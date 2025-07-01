@@ -1,7 +1,7 @@
 # 🛒 SmartCart AI – Your Intelligent Walmart Shopping Companion
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0071ce/ffffff?text=SmartCart+AI+%7C+Walmart+Sparkathon+2025" alt="SmartCart AI Banner" />
+  
 
   <br/>
 
@@ -11,7 +11,7 @@
 
   <br/><br/>
 
-  🔗 [Live Demo](#) • 📚 [Documentation](#) • ⚡ [Quick Start](#quick-start) • 🤝 [Contributing](#contributing)
+  🔗 Live Demo • 📚 Documentation • ⚡ [Quick Start](#quick-start) • 🤝 [Contributing](#contributing)
 </div>
 
 ---
@@ -116,7 +116,7 @@ npm start
 
 | Smart Dashboard | Intelligent Cart | Meal Planner | Eco Rewards |
 |-----------------|------------------|--------------|--------------|
-| <img src="https://via.placeholder.com/100x100/0071ce/ffffff?text=🏠" width="60" /> <br/> AI suggestions & eco-points | <img src="https://via.placeholder.com/100x100/ffc220/000000?text=🛒" width="60" /> <br/> Live pricing, budget sim | <img src="https://via.placeholder.com/100x100/28a745/ffffff?text=🍽️" width="60" /> <br/> AI recipes, grocery lists | <img src="https://via.placeholder.com/100x100/17a2b8/ffffff?text=🌱" width="60" /> <br/> GreenPoints™ gamified system |
+|  <br/> AI suggestions & eco-points |  <br/> Live pricing, budget sim |  <br/> AI recipes, grocery lists |  <br/> GreenPoints™ gamified system |
 
 ---
 
@@ -185,7 +185,7 @@ For queries or suggestions, connect via [GitHub](https://github.com/Avisav24).
 ## 📄 License
 
 MIT License © 2025 SmartCart AI Team  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[](https://opensource.org/licenses/MIT)
 
 ---
 
