@@ -1,186 +1,193 @@
-🛒 SmartCart AI – Your Intelligent Walmart Shopping Companion
-<div align="center">
-![SmartCart AI Banner](https://via.placeholder.com/800x200/0071ce/ffffff?text 2025](https://img.shields.io/badge/Built%20for-Walmart%20Sparkathonttps://img.shields.io/badge/TailwindCSS-3.1.6-38bdf8?style=for-the-badge&logo=tailwindc/badge/AI-Powered-ff6b35?style=for* AI - Full-Stack Web/App - Sustainability - Retail Innovation
+# 🛒 SmartCart AI – Your Intelligent Walmart Shopping Companion
 
-🎯 Live Demo - 📖 Documentation - 🚀 Quick Start - 🤝 Contributing
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/0071ce/ffffff?text=SmartCart+AI+%7C+Walmart+Sparkathon+2025" alt="SmartCart AI Banner" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Built%20for-Walmart%20Sparkathon-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.1.6-38bdf8?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/AI%20Powered-ff6b35?style=for-the-badge&logo=OpenAI&logoColor=white" />
+
+  <br/><br/>
+
+  🔗 [Live Demo](#) • 📚 [Documentation](#) • ⚡ [Quick Start](#quick-start) • 🤝 [Contributing](#contributing)
+</div>
+
+---
+
+## 🌟 What is SmartCart AI?
+
+**SmartCart AI** is a next-gen Walmart shopping assistant that blends intelligent automation with sustainable design. Our platform enhances customer experience with AI-driven personalization, budget tools, eco-rewards, and more — making shopping smarter and greener.
+
+---
+
+## 🎯 Our Mission
+
+> Empowering customers to make smarter choices, save time, and reduce waste — while advancing Walmart’s innovation and sustainability goals.
+
+---
+
+## ✨ Key Features
+
+| Features | Description |
+|---------|-------------|
+| 🧠 **AI-Driven Personalization** | - Smart product suggestions based on purchase history <br/> - Finds hidden coupons & discounts <br/> - Natural Language Search (e.g., _"low-calorie snacks under ₹100"_) <br/> - Behavioral insights for better recommendations |
+| 🛒 **Smart Cart + Bill Estimator** | - Live bill estimation <br/> - Budget simulation with quantity/price tweaks <br/> - Auto-sync with real-time Walmart prices <br/> - Cross-platform cart sync |
+| 🍽️ **AI Meal Planner** | - Personalized meal plans <br/> - Nutrition filters (diet, allergies, etc.) <br/> - Auto-generates grocery lists <br/> - Live stock check for ingredients |
+| 🌱 **Eco-Reward System** | - EcoScore product tags <br/> - Earn GreenPoints™ for sustainable shopping <br/> - Track carbon impact <br/> - Unlock eco-achievements |
+| 📦 **Inventory & Supply Chain** | - Real-time availability + restock alerts <br/> - Food waste reduction via demand forecasting <br/> - Walmart supply-chain optimization insights |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Frontend | Backend | Database | AI | DevOps |
+|---------|---------|----------|----|--------|
+| React.js | Node.js | MongoDB | OpenAI API | Firebase, Vercel, Render |
+| Tailwind CSS | Express.js |    | NLP, Recommendation Engine | Hosting & Deployments |
 
 </div>
-🌟 What is SmartCart AI?
-SmartCart AI is a revolutionary shopping assistant that transforms the Walmart experience through intelligent automation and sustainability-first design. Our platform combines cutting-edge AI with real-world shopping needs to create a seamless, eco-conscious, and personalized journey.
 
-<div align="center">
-🎯 Our Mission
-Empowering customers to make smarter choices, save time, and reduce waste while supporting Walmart's innovation goals.
+---
 
-</div>
-✨ Key Features
-<table> <tr> <td width="50%">
-🧠 AI-Driven Personalization
-🎯 Smart product suggestions from purchase history
+<details>
+<summary><b>📁 Project Structure</b></summary>
 
-💰 Hidden coupons & exclusive discounts automatically surfaced
-
-🔍 Intelligent search with NLP (e.g., "low-calorie snacks under ₹100")
-
-📊 Behavioral analytics for better recommendations
-
-</td> <td width="50%">
-🛒 Smart Cart + Bill Estimator
-🧮 Live bill estimation as you shop
-
-💡 Budget simulation with quantity/price adjustments
-
-🔄 Auto-sync with real-time Walmart pricing
-
-📱 Cross-platform cart synchronization
-
-</td> </tr> <tr> <td width="50%">
-🍽️ Meal Planner + Nutrition API
-📅 AI-generated monthly meal plans
-
-🥗 Tailored to dietary preferences & restrictions
-
-📝 Instant grocery list generation
-
-✅ Live stock verification for ingredients
-
-</td> <td width="50%">
-🌱 Eco-Reward System
-🏷️ Products tagged with EcoScore ratings
-
-🎖️ Earn GreenPoints™ for sustainable purchases
-
-🌍 Track your environmental impact
-
-🏆 Unlock eco-friendly achievements
-
-</td> </tr> </table>
-📦 Advanced Inventory & Supply Chain
-📊 Real-time product availability with restock alerts
-
-🔄 Demand data integration with Walmart's inventory system
-
-🗑️ Food waste reduction through smart demand forecasting
-
-🚚 Supply chain optimization insights
-
-🛠️ Tech Stack
-<div align="center">
-Frontend Powerhouse
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logobadge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor/JavaScript-F7DF1E?style=badge/Node.js-43853D?style=for-the-badge&logo=node.js&logog.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=.shields.io/badge/Firebase-039BE5?style=for-the-badge&logobadge/Vercel-000000?style=for-the-badge&logo=ver/badge/Render-46E3B7?style=for-the-badge&logo=render&>
-
-<summary><b>🏗️ Click to expand project structure</b></summary>
-text
-smartcart-ai-frontend/
-├── 📁 public/
-│   ├── index.html                 # 🌐 Main HTML template
-│   ├── favicon.ico                # 🎨 App icon
-│   ├── manifest.json              # 📱 PWA manifest
-│   └── robots.txt                 # 🤖 SEO configuration
-├── 📁 src/
-│   ├── 📁 assets/                 # 🖼️ Static files & images
-│   │   ├── 📁 images/             # 🏞️ Product images, banners
-│   │   └── 📁 icons/              # 🎯 Custom SVG icons
-│   ├── 📁 components/             # 🧩 Reusable UI components
-│   │   ├── Navbar.jsx             # 🧭 Responsive navigation
-│   │   ├── ProductCard.jsx        # 🛍️ Product display cards
-│   │   ├── CartSummary.jsx        # 🛒 Shopping cart summary
-│   │   └── MealPlanner.jsx        # 🍽️ Meal planning widget
-│   ├── 📁 pages/                  # 📄 Main application pages
-│   │   ├── Home.jsx               # 🏠 AI-powered dashboard
-│   │   ├── Cart.jsx               # 🛒 Smart shopping cart
-│   │   ├── Login.jsx              # 🔐 Authentication portal
-│   │   └── Profile.jsx            # 👤 User profile & settings
-│   ├── 📁 styles/                 # 🎨 Global styling
-│   │   └── index.css              # 💄 Tailwind + custom styles
-│   ├── App.jsx                    # ⚛️ Main app with routing
-│   └── index.js                   # 🚀 React DOM entry point
-├── 📄 package.json                # 📦 Dependencies & scripts
-├── 📄 tailwind.config.js          # 🎨 Tailwind configuration
-├── 📄 postcss.config.js           # 🔧 PostCSS setup
-├── 📄 .gitignore                  # 🙈 Git ignore rules
-└── 📄 README.md                   # 📚 Project documentation
+```
+SmartCart-AI/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   ├── manifest.json
+│   └── robots.txt
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   └── icons/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── ProductCard.jsx
+│   │   ├── CartSummary.jsx
+│   │   └── MealPlanner.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Cart.jsx
+│   │   ├── Login.jsx
+│   │   └── Profile.jsx
+│   ├── styles/
+│   │   └── index.css
+│   ├── App.jsx
+│   └── index.js
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── .gitignore
+└── README.md
+```
 </details>
-🚀 Quick Start
-<div align="center">
-Get up and running in 3 minutes! ⏱️
-</div>
-bash
-# 🔥 Step 1: Clone the repository
-git clone https://github.com/Avisav24/smartcart-ai-frontend.git
-cd smartcart-ai-frontend
 
-# 📦 Step 2: Install dependencies
+---
+
+## 🚀 Quick Start
+
+```bash
+# 1️⃣ Clone the repo
+git clone https://github.com/Avisav24/SmartCart-AI.git
+cd SmartCart-AI
+
+# 2️⃣ Install dependencies
 npm install
 
-# 🎨 Step 3: Initialize Tailwind CSS
+# 3️⃣ Initialize Tailwind CSS
 npx tailwindcss init -p
 
-# 🚀 Step 4: Launch development server
+# 4️⃣ Start dev server
 npm start
+```
+
+🔗 Visit `http://localhost:3000` to view the app.
+
+---
+
+## 🎯 Demo Highlights
+
+| Smart Dashboard | Intelligent Cart | Meal Planner | Eco Rewards |
+|-----------------|------------------|--------------|--------------|
+| <img src="https://via.placeholder.com/100x100/0071ce/ffffff?text=🏠" width="60" /> <br/> AI suggestions & eco-points | <img src="https://via.placeholder.com/100x100/ffc220/000000?text=🛒" width="60" /> <br/> Live pricing, budget sim | <img src="https://via.placeholder.com/100x100/28a745/ffffff?text=🍽️" width="60" /> <br/> AI recipes, grocery lists | <img src="https://via.placeholder.com/100x100/17a2b8/ffffff?text=🌱" width="60" /> <br/> GreenPoints™ gamified system |
+
+---
+
+## 📊 Performance Metrics
+
+| Metric         | Score      | Status       |
+|----------------|------------|--------------|
+| Performance    | 95/100     | 🟢 Excellent |
+| Accessibility  | 98/100     | 🟢 Excellent |
+| Best Practices | 92/100     | 🟢 Excellent |
+| SEO            | 100/100    | 🟢 Perfect   |
+
+---
+
+## 🌍 Why SmartCart AI?
+
 <div align="center">
-🎉 Visit http://localhost:3000 to see the magic!
+
+### For Customers  
+✅ Save time • 💡 Make smarter decisions • ♻️ Reduce waste • 🎁 Earn rewards  
+
+### For Walmart  
+📈 Boost engagement • 🧠 Optimize inventory • 🌱 Advance sustainability  
+
+### For the Planet  
+🌾 Reduce food waste • 🌍 Promote eco-products • 📉 Track emissions  
 
 </div>
-🎯 Demo Highlights
-<table> <tr> <td align="center" width="25%"> <img src="https://via.placeholder.com/150x150/0071ce/ffffff?text=🏠" width="80"/> <br><b>Smart Dashboard</b> <br><sub>AI suggestions & eco-points</sub> </td> <td align="center" width="25%"> <img src="https://via.placeholder.com/150x150/ffc220/000000?text=🛒" width="80"/> <br><b>Intelligent Cart</b> <br><sub>Live pricing & budget sim</sub> </td> <td align="center" width="25%"> <img src="https://via.placeholder.com/150x150/28a745/ffffff?text=🍽️" width="80"/> <br><b>Meal Planner</b> <br><sub>AI recipes & auto-lists</sub> </td> <td align="center" width="25%"> <img src="https://via.placeholder.com/150x150/17a2b8/ffffff?text=🌱" width="80"/> <br><b>Eco Rewards</b> <br><sub>GreenPoints™ system</sub> </td> </tr> </table>
-📊 Performance Metrics
-<div align="center">
-Metric	Score	Status
-Performance	95/100	🟢 Excellent
-Accessibility	98/100	🟢 Excellent
-Best Practices	92/100	🟢 Excellent
-SEO	100/100	🟢 Perfect
-</div>
-🌟 Why SmartCart AI?
-<div align="center">
-🎯 For Customers
-Save time - Make smarter choices - Reduce waste - Earn rewards
 
-🏪 For Walmart
-Increase engagement - Optimize inventory - Drive sustainability - Boost sales
+---
 
-🌍 For the Planet
-Reduce food waste - Promote eco-friendly products - Carbon footprint tracking
+## 🤝 Contributing
 
-</div>
-🤝 Contributing
-<div align="center">
-We ❤️ contributions from the community!
+We welcome contributions!
 
-</div>
-🍴 Fork the repository
+```bash
+# 🍴 Fork the repo
+# 🌿 Create a branch
+git checkout -b feature/YourFeature
 
-🌿 Create your feature branch (git checkout -b feature/AmazingFeature)
+# 💻 Commit changes
+git commit -m "Added AmazingFeature"
 
-💻 Commit your changes (git commit -m 'Add some AmazingFeature')
+# 🚀 Push changes
+git push origin feature/YourFeature
 
-🚀 Push to the branch (git push origin feature/AmazingFeature)
+# 🎉 Open a Pull Request
+```
 
-🎉 Open a Pull Request
+### 📋 Contribution Guidelines
 
-📋 Contribution Guidelines
-Follow existing code style
+- Follow code style & formatting
+- Write tests for new features
+- Update documentation if needed
+- Ensure mobile responsiveness
 
-Add tests for new features
+---
 
-Update documentation
+## 📞 Support & Contact
 
-Ensure mobile responsiveness
+Raise issues via GitHub Issues tab.  
+For queries or suggestions, connect via [GitHub](https://github.com/Avisav24).
 
-📞 Support & Contact
-<div align="center">
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=forg.shields.io/badge/icense
+---
 
-<div align="center">
-MIT License © 2025 SmartCart AI Team
+## 📄 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?://opensource.org/licenses/MIT
+MIT License © 2025 SmartCart AI Team  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🏆 Built with ❤️ for Walmart Sparkathon 2025
-[![Walmart](https://img.shields.io/badge/Walmart-Sparkathon% you found it helpful!**
+---
 
-🔝 Back to Top
-
-</div>
+🏆 Built with ❤️ for Walmart Sparkathon 2025  
+🔝 [Back to Top](#smartcart-ai--your-intelligent-walmart-shopping-companion)
