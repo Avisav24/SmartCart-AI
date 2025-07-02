@@ -19,8 +19,7 @@ const Login = () => {
     // Handle Walmart OAuth
     console.log('Walmart OAuth login');
   };
-
-  return (
+ return (
     <div className="min-h-screen gradient-bg flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8 animate-fade-in">
         <div className="bg-white rounded-2xl shadow-xl p-8">
