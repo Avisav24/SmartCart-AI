@@ -16,7 +16,7 @@ const MealPlanner = () => {
     }
   });
 
-  const [suggestions] = useState([
+const [suggestions] = useState([
     {
       id: 1,
       name: 'Mediterranean Bowl',
@@ -245,5 +245,4 @@ const MealPlanner = () => {
     </div>
   );
 };
-
 export default MealPlanner;
