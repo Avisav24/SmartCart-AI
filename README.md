@@ -190,4 +190,4 @@ MIT License © 2025 SmartCart AI Team
 ---
 
 🏆 Built with ❤️ for Walmart Sparkathon 2025  
-🔝 [Back to Top](#smartcart-ai--your-intelligent-walmart-shopping-companion)
+🔝 [Back to Top](# 🛒 SmartCart AI – Your Intelligent Walmart Shopping Companion)
