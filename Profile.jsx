@@ -19,6 +19,7 @@ const Profile = () => {
     { id: 3, name: 'Meal Planner Pro', description: 'Planned 50+ meals', icon: '🍽️', unlocked: false },
     { id: 4, name: 'Smart Shopper', description: 'Used AI suggestions 100+ times', icon: '🧠', unlocked: true }
   ];
+
   const recentActivity = [
     { id: 1, action: 'Added Greek Yogurt to cart', date: '2 hours ago', type: 'cart' },
     { id: 2, action: 'Completed meal plan for this week', date: '1 day ago', type: 'meal' },
