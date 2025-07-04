@@ -12,6 +12,7 @@ const Profile = () => {
     ecoPoints: 1250,
     mealsPlanned: 47
   };
+ 
   const achievements = [
     { id: 1, name: 'Eco Warrior', description: 'Earned 1000+ eco points', icon: '🌱', unlocked: true },
     { id: 2, name: 'Budget Master', description: 'Stayed under budget for 5 weeks', icon: '💰', unlocked: true },
