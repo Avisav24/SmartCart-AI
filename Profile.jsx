@@ -12,27 +12,23 @@ const Profile = () => {
     ecoPoints: 1250,
     mealsPlanned: 47
   };
-
   const achievements = [
     { id: 1, name: 'Eco Warrior', description: 'Earned 1000+ eco points', icon: '🌱', unlocked: true },
     { id: 2, name: 'Budget Master', description: 'Stayed under budget for 5 weeks', icon: '💰', unlocked: true },
     { id: 3, name: 'Meal Planner Pro', description: 'Planned 50+ meals', icon: '🍽️', unlocked: false },
     { id: 4, name: 'Smart Shopper', description: 'Used AI suggestions 100+ times', icon: '🧠', unlocked: true }
   ];
-
   const recentActivity = [
     { id: 1, action: 'Added Greek Yogurt to cart', date: '2 hours ago', type: 'cart' },
     { id: 2, action: 'Completed meal plan for this week', date: '1 day ago', type: 'meal' },
     { id: 3, action: 'Earned 25 eco points', date: '2 days ago', type: 'eco' },
     { id: 4, action: 'Saved $12.50 with AI suggestions', date: '3 days ago', type: 'savings' }
   ];
-
-  const tabs = [
+ const tabs = [
     { id: 'overview', name: 'Overview', icon: User },
     { id: 'achievements', name: 'Achievements', icon: Award },
     { id: 'settings', name: 'Settings', icon: Settings }
   ];
-
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       <div className="bg-white rounded-lg shadow-md">
@@ -59,8 +55,7 @@ const Profile = () => {
             <p className="text-2xl font-bold text-gray-900">${userData.totalSavings}</p>
             <p className="text-sm text-gray-600">Total Savings</p>
           </div>
-          
-          <div className="text-center">
+              <div className="text-center">
             <div className="flex items-center justify-center w-12 h-12 bg-green-100 rounded-lg mx-auto mb-2">
               <Leaf className="w-6 h-6 text-green-600" />
             </div>
