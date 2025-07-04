@@ -48,7 +48,8 @@ const Profile = () => {
           </div>
         </div>
 
-      
+
+        
         {/* Stats Cards */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 p-6 border-b">
           <div className="text-center">
