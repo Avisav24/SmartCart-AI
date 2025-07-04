@@ -110,7 +110,6 @@ const Cart = () => {
                   ${currentTotal.toFixed(2)}
                 </span>
               </div>
-              
               <div className="flex justify-between">
                 <span className="text-gray-600">Budget Limit:</span>
                 <span className="font-medium text-gray-900">${budgetLimit.toFixed(2)}</span>
