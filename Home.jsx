@@ -6,7 +6,7 @@ const Home = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [cartItems, setCartItems] = useState([]);
 
-  // Mock data
+
   const suggestions = [
     {
       id: 1,
