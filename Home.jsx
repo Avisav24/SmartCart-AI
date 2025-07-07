@@ -82,7 +82,7 @@ const Home = () => {
         <p className="text-gray-600">Here are your personalized recommendations for this week</p>
       </div>
 
-      {/* Stats Cards */}
+     
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
         <div className="bg-white rounded-lg shadow-md p-6 card-hover">
           <div className="flex items-center">
