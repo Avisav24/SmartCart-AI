@@ -190,4 +190,4 @@ MIT License © 2025 SmartCart AI Team
 ---
 
 🏆 Built with ❤️ for Walmart Sparkathon 2025  
-🔝 [Back to Top](https://github.com/Avisav24/SmartCart-AI/blob/main/README.md)
+
