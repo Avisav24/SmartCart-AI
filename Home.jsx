@@ -172,7 +172,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* Quick Actions */}
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg p-6 text-white">
           <h3 className="text-xl font-bold mb-2">🍽️ Meal Planner</h3>
