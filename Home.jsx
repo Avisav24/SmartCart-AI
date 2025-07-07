@@ -121,7 +121,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* AI Suggestions Carousel */}
+    
       <div className="bg-white rounded-lg shadow-md p-6 mb-8">
         <div className="flex items-center mb-6">
           <Brain className="w-6 h-6 text-walmart-blue mr-2" />
