@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 {
   "history": ["milk", "bread", "butter", "eggs"],
   "cart": ["milk", "bread"]
 }
+=======
+{
+  "history": ["milk", "bread", "butter", "eggs"],
+  "cart": ["milk", "bread"]
+}
+>>>>>>> f9d84a436c48ce47670d20bf949a9e77eb01ecef
